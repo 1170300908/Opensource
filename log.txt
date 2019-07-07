@@ -1,0 +1,1 @@
+a good app should have log ,apache log4j jar is recommended
